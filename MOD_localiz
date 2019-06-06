@@ -5,5 +5,5 @@
    There is two files called MyTexts.resx and MyTexts.ru.resx where <.ru> is file for russian language.
    
 3. After that you need go to yours mod, that you want to lacalize, in Folder <Data> you need can localize everything, like Block name, 
-   t's description, block kategory names, mmo names, component names, o amny other things that have displayed data 
+   block description, block kategory names, ammo names, component names, or any other things that have displayed data 
    written in files of your mod.
