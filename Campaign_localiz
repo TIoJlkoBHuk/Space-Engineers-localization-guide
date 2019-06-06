@@ -28,3 +28,7 @@ After you need to create folder in your campaign directory on this way
 -- Select needed <Massage ID> and connect it to string data of yours node like here:
    -- https://i.imgur.com/MKnzBfA.png
    -- https://i.imgur.com/D43Ty72.png.
+
+4. What exactly you can localise in VST scenarios\campaigns ?
+ Everything that have <String type> input. Like a Mission name, description, GPS name, chat message, 
+ <Good bot> name (like me, i used name <Suit AI> for example) and many other things.
