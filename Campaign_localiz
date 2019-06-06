@@ -4,14 +4,21 @@ After you need to create folder in your campaign directory on this way
 "=Campaign name=\Scenarios\=Campaing name=\Localization" if folder <Localization> dont exist ofcourse.
 
 2. In this folder you need add\copy 2 files for each language
+   Example of 2 language localization --- https://i.imgur.com/xgx5u2M.png
 
 -  Common.sbl -- File with config for localization of given lang. Also this example is default for EN lang, 
    for other lang you should use this name form <Common.ru.sbl> where <.ru> is lang varian, 
    so you need to cange it to your localization language.
+   https://i.imgur.com/wivqWTL.png
+   Here you can choose what language is default (only one default language other languages must have value = false). 
+   
+   For what this default language used ?
+   It's used for displaying all information for players that use language that havn't localized by author,
+   and game will use language by default. So try to set default language EN, for better understanding.
    
 -  Common.resx -- File with localization text (this variant <Common.resx> is default, for EN lang, 
    your file need to have name like <Common.ru.resx> - for RU lang like example 
   in the end you should have something like this one
-  https://i.imgur.com/xgx5u2M.png
+  
 
 3. 
