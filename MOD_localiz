@@ -1,4 +1,18 @@
-1. First of all you need to create campaign or scernario tha you will be localizating into few languages.
-  You need to go to yours appdata folder and find SE folder there, and then go to mods folder and find yours Campaign\scenario folder
-  After you need to create folder in your campaign directory on this way 
-  "=Campaign name=\Scenarios\=Campaing name=\Localization" if folder <Localization> dont exist ofcourse.
+1. First of all you need to have mod that you will be localizing and than you need to create NEW empty MOD folder in yours SE mod directory.
+2. In this folder you need create folder <Data>.
+3. Inside of <data> you need to create folder <Scripts>.
+4. Inside <Scripts> folder you need to create txt file with this information inside
+ 
+
+
+
+
+
+
+
+
+
+
+5. After that you need go to yours mod, that you want to lacalize, in Folder <Data> you need can localize everything, like Block name, 
+   t's description, block kategory names, mmo names, component names, o amny other things that have displayed data 
+   written in files of your mod.
