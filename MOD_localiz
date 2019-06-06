@@ -1,1 +1,4 @@
-
+1. First of all you need to create campaign or scernario tha you will be localizating into few languages.
+  You need to go to yours appdata folder and find SE folder there, and then go to mods folder and find yours Campaign\scenario folder
+  After you need to create folder in your campaign directory on this way 
+  "=Campaign name=\Scenarios\=Campaing name=\Localization" if folder <Localization> dont exist ofcourse.
