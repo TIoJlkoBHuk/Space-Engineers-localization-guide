@@ -1,13 +1,9 @@
 1. First of all you need to have mod that you will be localizing and than you need to create NEW empty MOD folder in yours SE mod directory.
 
-2. In this folder you need create folder <Data>.
-
-3. Inside of <data> you need to create folder <Scripts>.
-
-4. Example of such mod you can find here === https://drive.google.com/drive/folders/1gJIXHBY_qIQwZGV6N1_IVgvGA3pkNBSi?usp=sharing
+2. Example of such mod you can find here === https://drive.google.com/drive/folders/1gJIXHBY_qIQwZGV6N1_IVgvGA3pkNBSi?usp=sharing
    Here you can download this mod, you can cange only data in your files </Data/Localization> folder
    There is two files called MyTexts.resx and MyTexts.ru.resx where <.ru> is file for russian language.
    
-5. After that you need go to yours mod, that you want to lacalize, in Folder <Data> you need can localize everything, like Block name, 
+3. After that you need go to yours mod, that you want to lacalize, in Folder <Data> you need can localize everything, like Block name, 
    t's description, block kategory names, mmo names, component names, o amny other things that have displayed data 
    written in files of your mod.
