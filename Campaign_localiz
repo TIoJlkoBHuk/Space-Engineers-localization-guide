@@ -1,12 +1,12 @@
 1. First of all you need to create campaign or scernario tha you will be localizating into few languages.
-You need to go to yours appdata folder and find SE folder there, and then go to mods folder and find yours Campaign\scenario folder
-After you need to create folder in your campaign directory on this way 
-"=Campaign name=\Scenarios\=Campaing name=\Localization" if folder <Localization> dont exist ofcourse.
+   You need to go to yours appdata folder and find SE folder there, and then go to mods folder and find yours Campaign\scenario folder
+   After you need to create folder in your campaign directory on this way 
+   "=Campaign name=\Scenarios\=Campaing name=\Localization" if folder <Localization> dont exist ofcourse.
 
 2. In this folder you need add\copy 2 files for each language
    Example of 2 language localization --- https://i.imgur.com/xgx5u2M.png
 
--  Common.sbl -- File with config for localization of given lang. Also this example is default for EN lang, 
+ - Common.sbl -- File with config for localization of given lang. Also this example is default for EN lang, 
    for other lang you should use this name form <Common.ru.sbl> where <.ru> is lang varian, 
    so you need to cange it to your localization language.
    https://i.imgur.com/wivqWTL.png
@@ -18,8 +18,8 @@ After you need to create folder in your campaign directory on this way
    
 -  Common.resx -- File with localization text (this variant <Common.resx> is default, for EN lang, 
    your file need to have name like <Common.ru.resx> - for RU lang like example 
-  in the end you should have something like this one
-  Here is example of creating localization data -- https://i.imgur.com/xjG4yiT.png
+   in the end you should have something like this one
+   Here is example of creating localization data -- https://i.imgur.com/xjG4yiT.png
 
 3. So, right now we came to question how to connect our localized data to our scenario\campaign ?
 -- First you need to work with VST (Or what are u doing here !??))) 
@@ -30,5 +30,5 @@ After you need to create folder in your campaign directory on this way
    -- https://i.imgur.com/D43Ty72.png.
 
 4. What exactly you can localise in VST scenarios\campaigns ?
- Everything that have <String type> input. Like a Mission name, description, GPS name, chat message, 
- <Good bot> name (like me, i used name <Suit AI> for example) and many other things.
+   Everything that have <String type> input. Like a Mission name, description, GPS name, chat message, 
+   <Good bot> name (like me, i used name <Suit AI> for example) and many other things.
