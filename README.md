@@ -1,4 +1,4 @@
-# SElocalization_guide
+# Space engineers localization guide
 Guide how to licalize your canpaign or mod.
 
 Here is all needed info about localization of yours SE campaign or MOD, for any language, supported by Space Engineers game.
